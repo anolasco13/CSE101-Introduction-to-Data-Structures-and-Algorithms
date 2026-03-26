@@ -6,7 +6,7 @@ Introduction to abstract data types and the basics of algorithms. Topics include
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 Each programming assignment lives in its own directory with a dedicated README describing the problem, approach, and build instructions.
 
@@ -23,7 +23,7 @@ Each programming assignment lives in its own directory with a dedicated README d
 
 ---
 
-## 🛠️ Building & Running
+## Building & Running
 
 Each assignment can be compiled using the provided `Makefile`:
 
@@ -41,7 +41,7 @@ make clean
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 - Abstract Data Types (ADTs)
 - Linked Lists (singly, doubly)
@@ -54,7 +54,7 @@ make clean
 
 ---
 
-## ⚙️ Language & Tools
+## Language & Tools
 
 - **Language:** C / C++
 - **Compiler:** `gcc` / `g++`
