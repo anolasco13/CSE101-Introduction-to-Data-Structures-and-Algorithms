@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26290534/README.md)
 # CSE 101 – Introduction to Data Structures and Algorithms
 **University of California, Santa Cruz**
 
